@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 
-I am a first-year physics PhD student at the University of Florida. 
+I am a first-year graduate student from Minnesota. 
 
-This website is currently being developed.
+My undergraduate research spanned gravitational wave detector characterization, quantum information theory, and correlation functions in the context of materials theory. 
+
+A link to my UF page is given [here](https://sites.google.com/view/andrew-valentini/about).
+
+This website is under development. In the meantime, my undergraduate website is linked [here](https://andrewvalentini.github.io/).
