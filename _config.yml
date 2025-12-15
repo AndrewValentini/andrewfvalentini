@@ -23,7 +23,7 @@ repository               : "AndrewValentini/andrewvalentini.github.io/andrewfval
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Andrew Valentini"
   pronouns         : # example: "she/her"  
   bio              : "First-year Physics PhD"
