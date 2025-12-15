@@ -16,8 +16,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
+
+# add the talks section if you ever give recorded lectures
 
   - title: "Teaching"
     url: /teaching/    
