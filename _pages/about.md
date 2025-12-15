@@ -10,6 +10,4 @@ redirect_from:
 
 I am a first-year physics PhD student at the University of Florida. 
 
-(Testing the preview branch!)
-
 This website is currently being developed.
