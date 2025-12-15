@@ -1,18 +1,18 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Non-Completely Positive Dynamics as a Probe of Entanglement in Quantum Circuits; Washington University, St. Louis, MI",
+    38.6488,
+    90.3108
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "ADM Formulation of Scalar-Tensor-Vector Gravity; St. Norbert College, De Pere, WI",
+    44.444371, 
+    -88.069322
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Non-completely Positive Dynamics as a Probe of Entanglement in Quantum Circuit; Penn State University, State College, PA",
+    40.7982,
+    77.8599
   ],
   [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
